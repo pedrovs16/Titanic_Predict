@@ -12,4 +12,4 @@ Nesse projeto foi criado vários modelos de Machine Learning para descobrir quem
 
 <hr>
 
-#####  Feito por Pedro Viana - Contato(https://www.linkedin.com/in/pedro-viana-886a361a7/)
+#####  Feito por Pedro Viana - Contato(https://www.linkedin.com/in/pedrovianaschroeder/)
